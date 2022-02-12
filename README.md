@@ -1,0 +1,1 @@
+An emulation of blockchain built in JS
